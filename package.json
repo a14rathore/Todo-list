@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "http://a14rathore.github.io/react-gh-pages",
+  "homepage": "http://a14rathore.github.io/Todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
